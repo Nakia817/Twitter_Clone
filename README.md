@@ -1,5 +1,4 @@
-# twitter
-my twitter project
+
 # Twitter Clone
 ```
 Let’s make simple Twitter. Users can post tweets and see everyone’s them.
